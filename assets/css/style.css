@@ -9470,7 +9470,7 @@ textarea.form-control.is-invalid {
   border-radius: var(--bs-border-radius-xxl) !important;
 }
 .rounded-circle {
-  border-radius: 50% !important;
+  border-radius: 30% !important;
 }
 .rounded-pill {
   border-radius: var(--bs-border-radius-pill) !important;
@@ -31414,7 +31414,7 @@ html.lenis {
 }
 .hero-2 {
   padding-block: 72px;
-  background-image: url(../img/hero-2-bg.png);
+  background-image: url(../img/hero-4-bg.webp);
   background-position: center bottom;
   background-size: cover;
   background-repeat: no-repeat;
